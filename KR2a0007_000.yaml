@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0007/tls/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 本紀
+  hash: sha256:edaf2414a38e4e36fbbbfbd153f208fa3ccac1de3e322e4f8d2b1dece9e01eff
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0007_tls_000-1a.1-h}
+metadata:
+  title: 漢書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0007.xml
+hash: sha256:a213e9fd429074b6ca09303b46fdbb68e73b8f81e3763f2de165151f48339b24
