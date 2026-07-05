@@ -272,7 +272,6 @@ markers:
   - {type: variant, offset: 497, length: 1, content: 為, krp: 爲}
   - {type: punctuation, offset: 500, content: ，, id: KR2a0007_tls_002-bkkpn84}
   - {type: 'tls:seg', offset: 500, content: '', id: KR2a0007_tls_002-9a.3}
-  - {type: substitution, offset: 501, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3879}}
   - {type: punctuation, offset: 505, content: 。, id: KR2a0007_tls_002-bkkpn85}
   - {type: xml-element, offset: 505, content: '', id: KR2a0007_tls_002-bkkxmlele18}
   - {type: xml-element, offset: 505, content: '', id: KR2a0007_tls_002-bkkxmlele19}
@@ -305,7 +304,6 @@ markers:
   - {type: variant, offset: 537, length: 1, content: 廄, krp: 廐}
   - {type: punctuation, offset: 539, content: 。, id: KR2a0007_tls_002-bkkpn92}
   - {type: 'tls:seg', offset: 539, content: '', id: KR2a0007_tls_002-12a.4}
-  - {type: substitution, offset: 543, original: 佗, replacement: 他, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3913}}
   - {type: punctuation, offset: 548, content: 。, id: KR2a0007_tls_002-bkkpn93}
   - {type: xml-element, offset: 548, content: '', id: KR2a0007_tls_002-bkkxmlele24}
   - {type: xml-element, offset: 548, content: '', id: KR2a0007_tls_002-bkkxmlele25}
@@ -550,4 +548,4 @@ markers:
   - {type: page-break, offset: 839, content: '', id: KR2a0007_WYG_002-9b, image: WYG0249/WYG0249-0074b.png}
   - {type: variant, offset: 839, length: 0, content: '', krp: 前漢書卷二前漢書卷二考證惠帝紀第二臣召南按史記於高祖夲紀後孝文夲紀前止作呂后夲紀以惠帝事附入殊非體制班氏列惠帝紀於高后紀之前義理甚正視作斥土者臣照按監夲宋夲俱作斥上今以服䖍如淳注意詳之定為斥土服注斥上壙上也二上字亦並正春正月城長安胡三省曰漢都長安蕭何雖治宮室未暇築城帝始築之至五年始成臣召南按功臣表城及宮殿皆少府陽城延所作郃陽侯仲薨臣召南按高紀及吳王濞傳並作合陽則屬平原此紀作郃陽則屬左馮翊以王子侯表作合陽證之此郃字訛也然水經注已謂是郃陽矣立閩越君搖為東海王注即今泉州是其地臣召南按師古説非也閩越王無諸都冶則泉州地屬閩越矣東海王搖都東甌亦號東甌王即温州永嘉地非泉州地也前漢書卷二考證}
   back: []
-hash: sha256:3c7d9a2f1bc00c59dae57adae90aa112242a58bc22a3a44aa9271e70b4493d8b
+hash: sha256:3a5a06e933b7eea9f1fd1453a13ad995e10bdbdd2a0ca6328aa2486ff74b4538
