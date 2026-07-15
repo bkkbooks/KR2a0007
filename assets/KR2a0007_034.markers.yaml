@@ -434,6 +434,7 @@ markers:
   - {type: 'tls:seg', offset: 532, content: '', id: KR2a0007_tls_034-6a.20}
   - {type: punctuation, offset: 538, content: ，, id: KR2a0007_tls_034-bkkpn114}
   - {type: 'tls:seg', offset: 538, content: '', id: KR2a0007_tls_034-6a.21}
+  - {type: substitution, offset: 541, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 542, content: ，, id: KR2a0007_tls_034-bkkpn115}
   - {type: 'tls:seg', offset: 542, content: '', id: KR2a0007_tls_034-6a.22}
   - {type: punctuation, offset: 546, content: ，, id: KR2a0007_tls_034-bkkpn116}
@@ -546,6 +547,7 @@ markers:
   - {type: punctuation, offset: 755, content: ：, id: KR2a0007_tls_034-bkkpn170}
   - {type: 'tls:seg', offset: 755, content: '', id: KR2a0007_tls_034-7a.31}
   - {type: punctuation, offset: 755, content: 「, id: KR2a0007_tls_034-bkkpn171}
+  - {type: substitution, offset: 763, original: 彊, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17539}}
   - {type: punctuation, offset: 765, content: ，, id: KR2a0007_tls_034-bkkpn172}
   - {type: 'tls:seg', offset: 765, content: '', id: KR2a0007_tls_034-7a.32}
   - {type: punctuation, offset: 768, content: 、, id: KR2a0007_tls_034-bkkpn173}
@@ -587,6 +589,7 @@ markers:
   - {type: punctuation, offset: 834, content: 「, id: KR2a0007_tls_034-bkkpn196}
   - {type: punctuation, offset: 839, content: ，, id: KR2a0007_tls_034-bkkpn197}
   - {type: 'tls:seg', offset: 839, content: '', id: KR2a0007_tls_034-7a.46}
+  - {type: substitution, offset: 840, original: 彊, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17539}}
   - {type: punctuation, offset: 845, content: 。, id: KR2a0007_tls_034-bkkpn198}
   - {type: punctuation, offset: 845, content: 」, id: KR2a0007_tls_034-bkkpn199}
   - {type: 'tls:seg', offset: 845, content: '', id: KR2a0007_tls_034-7a.47}
@@ -1120,6 +1123,8 @@ markers:
   - {type: 'tls:seg', offset: 1849, content: '', id: KR2a0007_tls_034-18a.4}
   - {type: punctuation, offset: 1860, content: ，, id: KR2a0007_tls_034-bkkpn404}
   - {type: 'tls:seg', offset: 1860, content: '', id: KR2a0007_tls_034-18a.5}
+  - {type: substitution, offset: 1862, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
+  - {type: substitution, offset: 1863, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 1865, content: 。, id: KR2a0007_tls_034-bkkpn405}
   - {type: 'tls:seg', offset: 1865, content: '', id: KR2a0007_tls_034-18a.6}
   - {type: punctuation, offset: 1872, content: ，, id: KR2a0007_tls_034-bkkpn406}
@@ -1339,6 +1344,7 @@ markers:
   - {type: punctuation, offset: 2245, content: 、, id: KR2a0007_tls_034-bkkpn512}
   - {type: punctuation, offset: 2258, content: 、, id: KR2a0007_tls_034-bkkpn513}
   - {type: punctuation, offset: 2263, content: 、, id: KR2a0007_tls_034-bkkpn514}
+  - {type: substitution, offset: 2264, original: 彊, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17539}}
   - {type: punctuation, offset: 2269, content: 、, id: KR2a0007_tls_034-bkkpn515}
   - {type: variant, offset: 2272, length: 39, content: 趙周皆以列侯繼踵齪齪廉謹為丞相備員而已無所能發明功名著於世者贊曰張蒼文好律曆為, WYG: 是也前}
   - {type: page-break, offset: 2272, content: '', id: KR2a0007_WYG_034-36b, image: WYG0249/WYG0249-0791d.png}
@@ -1385,4 +1391,4 @@ markers:
   - {type: punctuation, offset: 2358, content: 。, id: KR2a0007_tls_034-bkkpn535}
   - {type: xml-element, offset: 2358, content: '', id: KR2a0007_tls_034-bkkxmlele42}
   back: []
-hash: sha256:9a2eb159da057c9f85b933bb7b9699f8f36d85ebf7b495f0b061f140cfa3be86
+hash: sha256:42b2d2efe15c6f2471d5ff24d70929f8cdd77c57a3f0dd884dabf28863bcdcca
